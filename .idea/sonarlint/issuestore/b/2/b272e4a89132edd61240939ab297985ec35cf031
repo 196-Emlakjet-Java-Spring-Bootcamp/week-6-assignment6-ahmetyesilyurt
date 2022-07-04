@@ -1,0 +1,4 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(æµ”Œûÿÿÿÿ
+u
+java:S2229("Z"getBannerById's" @Transactional requirement is incompatible with the one for this method.(¯ÕÕ…ÿÿÿÿÿ
